@@ -16,4 +16,4 @@ To run locally:
 - Download the project files into a local folder 
 - Navigate into this project folder in the terminal 
 - In terminal type 'npm install' . This will install the node modules packages and recreates the node_modules folder. 
-- In terminal type 'npm start' to start the server and open the project in your browser.![image](https://user-images.githubusercontent.com/74827533/170994223-32d81f14-6be1-42af-8c99-1d30f8adb46b.png)
+- In terminal type 'npm start' to start the server and open the project in your browser.
